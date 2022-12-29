@@ -1,5 +1,8 @@
 _repo: The-complete-servant-Being-a-practical-guide-to-the-peculiar-duties-and-business-of-all-descr__69487
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69487-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Adams, Samuel
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '37651'
     url: http://www.gutenberg.org/2009/agents/37651
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69487#The-complete-servant-Being-a-practical-guide-to-the-peculiar-duties-and-business-of-all-descr_
 gutenberg_issued: '2022-12-06'
 identifiers:
   gutenberg: '69487'
